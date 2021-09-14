@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gilad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gilad\\.nuget\\packages"
+    ]
+  }
+}

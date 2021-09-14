@@ -1,0 +1,9 @@
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\bin\Debug\netcoreapp3.1\GrpcGameLibrary.deps.json
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\bin\Debug\netcoreapp3.1\GrpcGameLibrary.dll
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\bin\Debug\netcoreapp3.1\GrpcGameLibrary.pdb
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.csprojAssemblyReference.cache
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.AssemblyInfoInputs.cache
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.AssemblyInfo.cs
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.csproj.CoreCompileInputs.cache
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.dll
+E:\Users\gilad\source\repos\fourinrow\GrpcGameLibrary\obj\Debug\netcoreapp3.1\GrpcGameLibrary.pdb

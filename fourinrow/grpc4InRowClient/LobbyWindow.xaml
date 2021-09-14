@@ -1,0 +1,69 @@
+﻿<Window x:Class="grpc4InRowClient.LobbyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:grpc4InRowClient"
+        mc:Ignorable="d"
+        Title="4 in a Row Lobby" Height="650" Width="500" ResizeMode="NoResize"
+        Closed="Window_Closed">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Search" Name="searchButton" Click="searchButton_Click"/>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="60*"/>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+
+            <!--<GroupBox Grid.Row="1" HorizontalAlignment="Left" Width="150" Margin="10,10,0,10"
+                      Header="My stats" Grid.ColumnSpan="4">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0">My Score:</Label>
+                    <Label Grid.Row="0" Grid.Column="1" Name="lbScore"></Label>
+                    <Label Grid.Row="1" Grid.Column="0">Victories:</Label>
+                    <Label Grid.Row="1" Grid.Column="1" Name="lbVictories"></Label>
+                </Grid>
+            </GroupBox>-->
+
+            <Button Name="buttonSend" Grid.Row="1" Grid.Column="1"
+                    Click="buttonSend_Click" Width="100" Height="50">
+                Invite to Play
+            </Button>
+            <TextBlock Name="gameData" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"
+                       Width="200">
+
+            </TextBlock>
+
+
+            <GroupBox Header="Users" Margin="10,0,10,0" Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" >
+                
+                <ListBox  Name="lbUsers"  SelectionMode="Single" BorderBrush="Transparent"/>
+            </GroupBox>
+
+            <GroupBox Margin="10,0,10,0"  Header="Games Playing Now" Grid.Row="3" Grid.Column="2"  Grid.ColumnSpan="1">
+                <StackPanel Orientation="Vertical" Name="spGamesNow"></StackPanel>
+            </GroupBox>
+        </Grid>
+    </DockPanel>
+</Window>
+

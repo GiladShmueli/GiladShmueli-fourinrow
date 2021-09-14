@@ -1,0 +1,94 @@
+//service side
+syntax = "proto3";
+
+option csharp_namespace = "grpc4InRowService";
+
+package fourinrow;
+
+// The greeting service definition.
+service Game {
+  rpc Connect (UserInfo) returns (stream GameMessage);
+  rpc Disconnect (UserInfo) returns (Empty);
+  rpc SendMessage (GameMessage) returns (Empty);
+  rpc UserConnected (UserInfo) returns (Empty);
+  rpc UpdateUsers (Empty) returns (Users);
+  rpc CurrentPlayers (Empty) returns (Users);
+  rpc Insert (PlayerModel) returns (Empty);
+  rpc UserInDB (UserInfo) returns (Empty);
+  rpc GameStarted (GamePlayers) returns (Empty);
+  rpc GameEnded (GamePlayers) returns (Empty);
+  rpc ReturnPlayers2Lobby (GamePlayers) returns (Empty);
+  rpc CurrentGames (Empty) returns (Games);
+  rpc GetPlayersSorted (SortMessage) returns (Players);
+  rpc PreviousGames (Empty) returns (Games);
+  rpc Get2PlayerHistory (Players) returns (Games);
+}
+
+// Empty type
+message Empty{}
+
+// The request message containing the user's name.
+message UserInfo {
+  string userName = 1;
+  string password = 2;
+}
+
+message GamePlayers {
+	string blue = 1;
+	string red = 2;
+	string startTime = 3;
+	int32 blueScore = 4;
+	int32 redScore = 5;
+	int32 turns = 6;
+}
+
+enum MessageType{
+	INVITE = 0;
+	UPDATE = 1;
+	ANSWER = 2;
+	PLAY = 3;
+	ENDGAME = 4;
+}
+
+// The game message containing all data needed
+message GameMessage {
+  MessageType type = 1;
+  string fromUser = 2;
+  string toUser = 3;
+  string message = 4;
+  int32 score = 5;
+}
+
+message Users{
+	repeated string userNames = 1;
+}
+
+message Games{
+	repeated GamePlayers gamesData = 1;
+}
+
+message PlayerModel{
+	int32 playerId = 1;
+	string name = 2;
+	string password = 3;
+	int32 total = 4;
+	int32 won = 5;
+	int32 lost = 6;
+	int32 score = 7;
+}
+
+message Players{
+	repeated PlayerModel players = 1;
+}
+
+enum SortType {
+	NAME = 0;
+	TOTAL = 1;
+	VICTORIES = 2;
+	LOSSES = 3;
+	SCORE = 4;
+}
+
+message SortMessage {
+	SortType method = 1;
+}

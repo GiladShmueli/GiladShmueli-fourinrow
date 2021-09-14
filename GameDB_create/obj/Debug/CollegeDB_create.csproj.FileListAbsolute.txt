@@ -1,0 +1,274 @@
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\CollegeDB_create.exe.config
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\CollegeDB_create.exe
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\CollegeDB_create.pdb
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\EntityFramework.dll
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\EntityFramework.xml
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\obj\Debug\CollegeDB_create.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CopyComplete
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\obj\Debug\CollegeDB_create.exe
+C:\Users\Dani\source\repos\Lab7\CollegeDB_create\obj\Debug\CollegeDB_create.pdb
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\8\Lab8_start\CollegeDB_create\obj\Debug\CollegeDB_create.csprojAssemblyReference.cache
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\8\Lab8_start\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\8\Lab8_start\CollegeDB_create\obj\Debug\CollegeDB_create.exe
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\8\Lab8_start\CollegeDB_create\obj\Debug\CollegeDB_create.pdb
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\obj\Debug\CollegeDB_create.csprojAssemblyReference.cache
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CoreCompileInputs.cache
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\obj\Debug\CollegeDB_create.exe
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\obj\Debug\CollegeDB_create.pdb
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\CollegeDB_create.exe.config
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\CollegeDB_create.exe
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\CollegeDB_create.pdb
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Buffers.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Memory.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Buffers.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Memory.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dannykot\Desktop\Lab7_start\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CopyComplete
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\CollegeDB_create.exe.config
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\CollegeDB_create.exe
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\CollegeDB_create.pdb
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Buffers.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Memory.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Buffers.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Memory.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\obj\Debug\CollegeDB_create.csprojAssemblyReference.cache
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CopyComplete
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\obj\Debug\CollegeDB_create.exe
+C:\Users\Dani\Documents\courses\C sharp\classroom programs\7\Lab7_in_class\CollegeDB_create\obj\Debug\CollegeDB_create.pdb
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\CollegeDB_create.exe.config
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\CollegeDB_create.exe
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\CollegeDB_create.pdb
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Buffers.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Collections.Immutable.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Memory.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Numerics.Vectors.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.Identity.Client.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Buffers.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Collections.Immutable.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Memory.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Numerics.Vectors.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\obj\Debug\CollegeDB_create.csprojAssemblyReference.cache
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CoreCompileInputs.cache
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\obj\Debug\CollegeDB_create.csproj.CopyComplete
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\obj\Debug\CollegeDB_create.exe
+E:\Users\Gilad\source\Lab7_EFCore_from_class\Lab7_EFCore_from_class\CollegeDB_create\obj\Debug\CollegeDB_create.pdb
